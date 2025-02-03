@@ -1,7 +1,7 @@
 {
   "name": "ducki",
   "version": "0.0.1",
-  "description": "Simple utility scripts for exporting Kicad images.",
+  "description": "Simple utility scripts for exporting KiCad images.",
   "main": "lib/index.js",
   "scripts": {
     "auto-build": "npm run build -- -w",
@@ -13,7 +13,7 @@
     "url": "git+https://github.com/ricmoo/ducki.git"
   },
   "keywords": [
-    "Kicad",
+    "KiCad",
     "render",
     "pcb"
   ],
